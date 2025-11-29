@@ -1,0 +1,32 @@
+# CDC + Incremental RAG Requirements
+
+# FastAPI & Server
+fastapi
+uvicorn
+pydantic==2.12.3
+
+# LangChain & NLP
+langchain==1.0.2
+langchain-community==0.4
+sentence-transformers==5.1.2
+
+# Vector Database
+pinecone-client==3.2.2
+
+# Kafka
+confluent-kafka
+
+# Database & ORM
+sqlalchemy==2.0.23
+sqlite3  # Built-in, no need to install
+
+# Environment & Config
+python-dotenv==1.1.1
+
+# Data Processing
+numpy==1.26.4
+pandas==2.1.3
+
+# Utilities
+requests==2.31.0
+python-dateutil==2.8.2
