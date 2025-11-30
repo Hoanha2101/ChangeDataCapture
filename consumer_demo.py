@@ -8,7 +8,7 @@ conf = {
 }
 
 consumer = Consumer(conf)
-consumer.subscribe(['mysql-server.testdb.users'])
+consumer.subscribe(['mysql-server.testdb.rag'])
 
 print("=" * 80)
 print("CDC DEMO - Kafka Consumer")

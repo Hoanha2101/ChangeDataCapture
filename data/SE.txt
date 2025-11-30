@@ -1,0 +1,42 @@
+1. GIỚI THIỆU CHUNG
+Kỹ thuật phần mềm là ngành học tập trung vào việc phát triển, thiết kế, bảo trì và quản lý các hệ thống phần mềm. Đây là một trong những ngành hot nhất hiện nay với nhu cầu nhân lực lớn và mức lương hấp dẫn.
+
+2. CÁC MÔN HỌC CHÍNH
+- Lập trình cơ bản (C/C++, Java, Python)
+- Cấu trúc dữ liệu và giải thuật
+- Cơ sở dữ liệu (SQL, NoSQL)
+- Phát triển ứng dụng web
+- Phát triển ứng dụng mobile
+- Kiểm thử phần mềm
+- Quản lý dự án phần mềm
+- Công nghệ phần mềm
+- Kiến trúc phần mềm
+
+3. KỸ NĂNG CẦN CÓ
+- Tư duy logic và giải quyết vấn đề
+- Kỹ năng lập trình thành thạo
+- Làm việc nhóm hiệu quả
+- Học hỏi công nghệ mới liên tục
+- Giao tiếp và trình bày ý tưởng
+
+4. CƠ HỘI NGHỀ NGHIỆP
+- Lập trình viên (Frontend, Backend, Full-stack)
+- Kiểm thử viên phần mềm
+- Kiến trúc sư phần mềm
+- Quản lý dự án IT
+- DevOps Engineer
+- Business Analyst
+- Product Owner
+
+5. MỨC LƯƠNG TRUNG BÌNH
+- Fresher: 8-15 triệu đồng/tháng
+- Junior (1-2 năm): 15-25 triệu đồng/tháng
+- Middle (3-5 năm): 25-40 triệu đồng/tháng
+- Senior (5+ năm): 40-80+ triệu đồng/tháng
+
+6. XU HƯỚNG CÔNG NGHỆ
+- Cloud Computing (AWS, Azure, GCP)
+- Microservices Architecture
+- Container và Kubernetes
+- CI/CD
+- Agile và Scrum
